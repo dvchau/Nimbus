@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-02 15:27:20</sys_created_on>
+        <sys_id>3f9498952f9f2010d583ff1df699b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_606119_nimbus_nimbus_docs.x_606119_nimbus.nimbus_docs_user</sys_name>
+        <sys_package display_value="Nimbus" source="x_606119_nimbus">8c97dbc52fdb2010d583ff1df699b6a4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Nimbus">8c97dbc52fdb2010d583ff1df699b6a4</sys_scope>
+        <sys_security_acl display_value="x_606119_nimbus_nimbus_docs">7f9498952f9f2010d583ff1df699b65d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3f9498952f9f2010d583ff1df699b660</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-02 15:27:20</sys_updated_on>
+        <sys_user_role display_value="x_606119_nimbus.nimbus_docs_user" name="x_606119_nimbus.nimbus_docs_user">a394d4152f9f2010d583ff1df699b6e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
